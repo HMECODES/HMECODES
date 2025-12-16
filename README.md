@@ -5,6 +5,9 @@
 
 # Experience
 3+ years of Lua (Roblox game developer(anticheat), roblox scripts/exploit)
+
 2 years of C++ (Memory Logic, reverse engineering)
+
 Python just for fun.
+
 
