@@ -3,7 +3,7 @@
   <b>Lua</b> • <b>Python</b> • <b>C++</b><br>
   Reverse engineering • Workflow clarity • Security thinking
 </p>
-[![Join Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/meowbypass)
+👉 [Join my Discord community](https://discord.gg/meowbypass)
 
 ---
 
